@@ -1,14 +1,5 @@
 //Today's time and Date
-var currentDate = moment().format('MMMM Do YYY, h:mm:ss a');
-
-var DayOfWeek = moment().format('dddd');
-console.log();
-
-//Adding Save Btn
-$("button").click(function() {
-    $('p').html()
-});
-
+$("#currentDay").text(moment().format('dddd, MMMM Do YYYY'));
 
 //Retrieve local storage data
 $("#hour9 .description").val(localStorage.getItem("hour9"));
