@@ -1,10 +1,9 @@
 # the-daily-planner
 
 User Story
-
-AS AN employee with a busy schedule
+AS someone who has a hectic schedule
 I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+SO THAT I can priortize my tasks and manage my time 
 
 
 
